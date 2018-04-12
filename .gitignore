@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PlexUtilities/obj
+/PlexUtilities/bin/Debug
+/.vs/PlexUtilities/v15/Server/sqlite3
